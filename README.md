@@ -44,27 +44,3 @@ function start(){
 
 </body>
 </html>
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  background-color: skyblue;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
-
-img {
-  max-width: 80%;
-}
-</style>
-</head>
-
-<body>
-
-<img src="image.jpg" alt="Mon image">
-
-</body>
-</html>
