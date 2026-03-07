@@ -38,7 +38,7 @@ button:hover{
 
 <script>
 function start(){
-    alert("Le bouton Start by Mohy a été cliqué !");
+    alert("je taime naomyy<3");
 }
 </script>
 
