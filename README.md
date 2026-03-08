@@ -16,4 +16,5 @@ Voir mon TikTok
 </button>👈
 
 </body>
-<h1> GAME (beta)</h1>
+<h1> GAME (bêta)</h1>
+<boutton> start game (bêta) </boutton>
