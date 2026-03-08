@@ -34,15 +34,17 @@ button:hover{
 </head>
 <body>
 
-<button onclick="start()">Start by Mohy naomy <3</button>
+<button onclick="start()">Start by Mohy</button>
 
 <script>
 function start(){
-    alert("je taime naomyy<3");
+    alert("site de mohy");
 }
 </script>
 
 </body>
 </html>
 <h1>mohy site</h1>
-<p>site de mohy en cours de fonctionnement merci de votre soutien</p>
+
+<p style="color : bleu;">site de mohy en cours de fonctionement merci de votre soutien</p>
+
