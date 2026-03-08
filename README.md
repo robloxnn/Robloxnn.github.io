@@ -16,5 +16,10 @@ Voir mon TikTok
 </button>👈
 
 </body>
+
 <h1> GAME (bêta)</h1>
-<boutton> start game (bêta) </boutton>
+
+<body>
+<button
+onclick="salut">
+start Game (bêta)
