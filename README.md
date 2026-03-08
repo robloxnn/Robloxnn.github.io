@@ -45,3 +45,4 @@ function start(){
 </body>
 </html>
 <h1>mohy site</h1>
+<p>site de mohy en cours de fonctionnement merci de votre soutien</p>
