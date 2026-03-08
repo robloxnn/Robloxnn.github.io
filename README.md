@@ -1,6 +1,6 @@
 
 
-</head>
+
 <body>
 
 <button onclick="start()">Start by Mohy</button>
