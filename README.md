@@ -15,8 +15,7 @@
 
 
 
-<body>
-href=https://www.tiktok.com/user/?username.@momo37moi
+<body><a
+href=https://www.tiktok.com/user/?username=
   <boutton>compt tiktok de mohy</boutton>
-</body>
 
