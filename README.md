@@ -19,4 +19,4 @@ Voir mon TikTok
 
 <h1> GAME (bêta)</h1>
 
-<button onclick="roblox.com()">start Game bêta</button>
+<button onclick="roblox.com()">start Game bêtâ</button>
