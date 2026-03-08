@@ -45,6 +45,11 @@ function start(){
 </body>
 </html>
 <h1>mohy site</h1>
+<p class="texte-bleu">Ceci est un texte bleu</p>
 
-<p style="color : bleu;">site de mohy en cours de fonctionement merci de votre soutien</p>
+<style>
+.texte-bleu {
+    color: blue;
+}
+</style>
 
