@@ -13,13 +13,9 @@
 <h1>mohy site</h1>
 <p class="texte-bleu">roblox: Yt_mohy</p>
 
-<style>
-.texte-bleu {
-    color: blue;
-}
-</style>
+
 
 <body><a
-href=https://www.tiktok.com/user/profile  ?username=momo37moi" target="_blank">
+href=https://www.tiktok.com/user/?username.@momo37moi
   <boutton>compt tiktok de mohy</boutton>
 
