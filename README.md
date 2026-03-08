@@ -17,5 +17,7 @@
 
 <body><a
 href=https://www.tiktok.com/user/?username=
-  <boutton>compt tiktok de mohy</boutton>
+  <button onclick="window.location.href='https://www.tiktok.com/@momo37moi'">
+Voir mon TikTok
+</button>
 
