@@ -19,4 +19,4 @@ Voir mon TikTok
 
 <h1> GAME (bêta)</h1>
 
-<button href="https://www.roblox.com">start Game bêta</button>👈
+<button onclick="window.location.href='https://www.roblox.com/games/1234567890/Nom-du-jeu'">start Game bêta</button>👈
