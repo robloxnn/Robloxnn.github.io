@@ -16,7 +16,7 @@
 
 
 <body><a
-<buttononclick="window.location.href='https://www.tiktok.com/@momo37moi'">
+<button onclick="window.location.href='https://www.tiktok.com/@momo37moi'">
 Voir mon TikTok
 </button>
 
