@@ -38,14 +38,16 @@ button:hover{
 
 <script>
 function start(){
-    alert("site de mohy");
+<button onclick="window.open('https://www.roblox.com/search/users?keyword=Yt_mohy', '_blank')">
+Voir mon compte Roblox
+</button>
 }
 </script>
 
 </body>
 </html>
 <h1>mohy site</h1>
-<p class="texte-bleu">site de mohy en cours merci de votre soutien</p>
+<p class="texte-bleu">roblox: Yt_mohy</p>
 
 <style>
 .texte-bleu {
