@@ -45,7 +45,7 @@ function start(){
 </body>
 </html>
 <h1>mohy site</h1>
-<p class="texte-bleu">Ceci est un texte bleu</p>
+<p class="texte-bleu">site de mohy en cours merci de votre soutien</p>
 
 <style>
 .texte-bleu {
