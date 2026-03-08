@@ -19,7 +19,7 @@ Voir mon TikTok
 
 <h1> GAME (bêta)</h1>
 
-<button onclick="startGame()">Lancer le mini jeu</button>
+<button onclick="startGame()">start Game bêta</button>
 <p>Score : <span id="score">0</span></p>
 
 <div id="gameArea">
@@ -58,4 +58,4 @@ document.getElementById("target").onclick = function() {
 </script>
 
 </body>
-</html>
+
