@@ -35,32 +35,11 @@ button:hover{
 <body>
 
 <button onclick="start()">Start by Mohy</button>
-
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-<meta charset="UTF-8">
-<title>Bouton Roblox</title><style>
-button {
-  background-color: #007BFF;
-  color: white;
-  padding: 15px 30px;
-  font-size: 18px;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-}
-
-button:hover {
-  background-color: #0056b3;
-}
-</style></head>
+</style>
+</head>
 <body><a href="https://www.roblox.com/users/profile?username=Yt_mohy" target="_blank">
-  <button>Voir mon compte Roblox</button>
-</a></body>
-</html>
-}
-</script>
+  <button>compt roblox de mohy</button>
+
 
 </body>
 </html>
