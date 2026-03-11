@@ -19,4 +19,4 @@ Voir mon TikTok
 
 <h1> GAME (bêta)</h1>
 
-<button onclick="window.location.href='https://www.roblox.com/games/1234567890/Murder-Mystery-2'">start Game bêta</button>👈
+<button onclick="window.location.href='https://www.roblox.com/games/Murder-Mystery2'">start Game bêta</button>👈
