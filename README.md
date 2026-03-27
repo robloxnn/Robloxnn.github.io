@@ -14,7 +14,6 @@ Voir mon TikTok
 
 </body>
 
-<h1> GAME best</h1>
+<h1>Best Game</h1>
 
-<button onclick="window.location.href='https://www.roblox.com/games/142823291/Murder-Mystery-2'">start Game best</button> 🎮🔪
-
+<button onclick="window.location.href='https://www.roblox.com/games/142823291/Murder-Mystery-2'">Start Best Game</button> 🎮🔪
