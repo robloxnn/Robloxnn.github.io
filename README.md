@@ -17,3 +17,15 @@ Voir mon TikTok
 <h1>Best Game</h1>
 
 <button onclick="window.location.href='https://www.roblox.com/games/142823291/Murder-Mystery-2'">Start Best Game</button> 🎮🔪
+
+<head>
+    <meta charset="UTF-8">
+ 
+    <style>
+        body {
+            background-color: #fff9c4; /* jaune clair */
+        }
+    </style>
+</head>
+
+
