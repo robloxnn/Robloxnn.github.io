@@ -17,7 +17,10 @@ Voir mon TikTok
 <h1>Best Game</h1>
 
 <button onclick="window.location.href='https://www.roblox.com/games/142823291/Murder-Mystery-2'">Start Best Game</button> 🎮🔪
+<body> 
 
-<h1>Snap account</h1> 
+  <h1>Snap account</h1> 
                                              
 <boutton onclick="window.location.href='https://www.snapchat.com/add/mohy_45?share_id=nxyosL-K0JM&locale=fr-FR'">Voir mon snap</boutton>👈
+
+</body>
