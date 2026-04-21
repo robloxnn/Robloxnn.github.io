@@ -21,6 +21,6 @@ Voir mon TikTok
 
   <h1>Snap account</h1> 
                                              
-<boutton onclick="window.location.href='https://www.snapchat.com/add/mohy_45?share_id=nxyosL-K0JM&locale=fr-FR'">Voir mon snap</boutton>👈
+<boutton onclick="window.location.href='https://www.snapchat.com/add/lol367i?share_id=nxyosL-K0JM&locale=fr-FR'">Voir mon snap</boutton>👈
 
 </body>
