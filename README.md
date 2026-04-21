@@ -9,18 +9,12 @@
 
   
   <button onclick="window.location.href='https://www.tiktok.com/@momo37moi'">
-Voir mon TikTok
-</button>👈
-
-</body>
+Voir mon TikTok</button>👈
 
 <h1>Best Game</h1>
 
 <button onclick="window.location.href='https://www.roblox.com/games/142823291/Murder-Mystery-2'">Start Best Game</button> 🎮🔪
-<body> 
 
   <h1>Snap account</h1> 
                                              
-<boutton onclick="window.location.href='https://www.snapchat.com/add/lol367i?share_id=nxyosL-K0JM&locale=fr-FR'">Voir mon snap</boutton>👈
-
-</body>
+<boutton onclick="window.location.href='https://www.snapchat.com/add/lol367i?share_id=nxyosL-K0JM&locale=fr-FR'">Voir mon snap</boutton> 👈
