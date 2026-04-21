@@ -6,9 +6,7 @@
 
   <h1>Tiktok account</h1>
 
-
-  
-  <button onclick="window.location.href='https://www.tiktok.com/@momo37moi'">
+  <button onclick="window.location.href='https://www.tiktok.com/@notreclip'">
 Voir mon TikTok</button>👈
 
 <h1>Best Game</h1>
