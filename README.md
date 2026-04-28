@@ -1,7 +1,6 @@
 <h1>Roblox account </h1>
 <body><a href="https://www.roblox.com/users/profile?username=Yt_mohy" target="_blank">
-  <button>Roblox account</button>
-👈
+  <button>Roblox account</button>👈
 </a>
 
   <h1>Tiktok account</h1>
@@ -11,11 +10,12 @@ Voir mon TikTok</button>👈
 
 <h1>Best Game</h1>
 
-<button onclick="window.location.href='https://www.roblox.com/games/142823291/Murder-Mystery-2'">Start Best Game</button> 🎮🔪
+<button onclick="window.location.href='https://www.roblox.com/games/142823291/Murder-Mystery-2'">Start Best Game</button>🎮🔪
 
   <h1>Snap account</h1> 
-                                             
-<boutton onclick="window.location.href='https://www.snapchat.com/add/lol367i?share_id=nxyosL-K0JM&locale=fr-FR'">Voir mon snap</boutton> 👈
+
+<boutton onclick="window.location.href='https://www.snapchat.com/add/lol367i?share_id=nxyosL-K0JM&locale=fr-FR'">Voir mon snap</boutton>👈
 
 <h1> discord server </h1>
-<boutton onclick="window.location.href='https://discord.com/channels/1493660232348602418/1493660232902119620'"> My discord server </boutton> 👈
+
+<boutton onclick="window.location.href='https://discord.com/channels/1493660232348602418/1493660232902119620'"> My discord server </boutton>👈
