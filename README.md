@@ -16,3 +16,6 @@ Voir mon TikTok</button>👈
   <h1>Snap account</h1> 
                                              
 <boutton onclick="window.location.href='https://www.snapchat.com/add/lol367i?share_id=nxyosL-K0JM&locale=fr-FR'">Voir mon snap</boutton> 👈
+
+<h1> discord server </h1>
+<boutton onclick="window.location.href='https://discord.com/channels/1493660232348602418/1493660232902119620'"> My discord server </boutton> 👈
